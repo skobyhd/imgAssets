@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Слой_1" x="0px" y="0px" viewBox="0 0 148.6 130" style="enable-background:new 0 0 148.6 130;" xml:space="preserve" width="148.6"  height="130" >
+<style type="text/css">
+	.st0{fill:#8264FF;}
+	.st1{fill:none;stroke:#8264FF;stroke-width:3;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#C1B1FF;stroke-width:2;stroke-miterlimit:10;}
+	.st3{fill:#8264FF;stroke:#8264FF;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#8264FF;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#8264FF;stroke-width:3.2464;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g>
+	<path class="st0" d="M35.9,8h-1.7c-1.1,0-1.9-0.9-1.9-1.9V5.7c0-1.1,0.9-1.9,1.9-1.9h1.7c1.1,0,1.9,0.9,1.9,1.9v0.4   C37.8,7.2,37,8,35.9,8z"/>
+	<path class="st0" d="M64.2,8h-1.7c-1.1,0-1.9-0.9-1.9-1.9V5.7c0-1.1,0.9-1.9,1.9-1.9h1.7c1.1,0,1.9,0.9,1.9,1.9v0.4   C66.1,7.2,65.2,8,64.2,8z"/>
+	<ellipse class="st1" cx="110.2" cy="63.1" rx="13.9" ry="13.8"/>
+	<ellipse class="st2" cx="110.2" cy="63.1" rx="4.9" ry="4.9"/>
+	<line class="st3" x1="110.2" y1="72.5" x2="110.2" y2="81.4"/>
+	<line class="st3" x1="118.9" y1="63.1" x2="127.9" y2="63.1"/>
+	<line class="st3" x1="91.8" y1="63.1" x2="100.8" y2="63.1"/>
+	<line class="st3" x1="110.2" y1="44.9" x2="110.2" y2="53.8"/>
+	<path class="st4" d="M36.2,5.4c-7.1-3.9-16-1.4-19.9,5.7h0.1c-1.5,2-2.9,7.8-2.9,11.8c0.3,24.5,16.8,40.9,33.8,40.9"/>
+	<path class="st4" d="M62.2,5.4c7.1-3.9,16-1.4,19.9,5.7H82c1.5,2,2.9,7.8,2.9,11.8c-0.3,24.5-16.8,40.9-33.8,40.9"/>
+	<path class="st0" d="M45.8,74l-6.6-12.2c-1.4-2.7,0.5-5.9,3.5-5.9h13.2c3,0,4.9,3.2,3.5,5.9L52.8,74C51.3,76.8,47.3,76.8,45.8,74z"/>
+	<path class="st5" d="M61.8,107v13.9c0,2.7-2.7,5-6.1,5h0c-3.3,0-6.1-2.2-6.1-5l-0.1-56.7"/>
+	<path class="st5" d="M61.8,119.2v-13.9c0-2.7,2.7-5,6.1-5h0c3.3,0,6.1,2.2,6.1,5v13.8"/>
+	<path class="st5" d="M86.1,107.1v14.3c0,2.7-2.7,5-6.1,5h0c-3.3,0-6.1-2.2-6.1-5v-15.6"/>
+	<path class="st5" d="M86.1,118.1v-12.9c0-2.7,2.7-5,6.1-5h0c3.3,0,6.1,2.2,6.1,5v9.2"/>
+	<path class="st5" d="M98.2,106.4v15c0,2.7,2.7,5,6.1,5h0c3.3,0,6.1-2.2,6.1-5V98.1l-0.1-21.2"/>
+</g>
+</svg>

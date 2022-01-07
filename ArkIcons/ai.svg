@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Слой_1" x="0px" y="0px" viewBox="0 0 130 130" style="enable-background:new 0 0 130 130;" xml:space="preserve" width="130"  height="130" >
+<style type="text/css">
+	.st0{fill:none;stroke:#C1B1FF;stroke-width:3;stroke-linecap:round;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#8264FF;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#C1B1FF;stroke-width:3;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#8264FF;stroke-width:3;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#8264FF;stroke-width:2.3453;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#8264FF;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g>
+	<path class="st0" d="M45.7,60.4c-0.9-4-4.8-6.5-8.7-5.6"/>
+	<path class="st0" d="M85.7,28.8c-0.9-4-4.8-6.5-8.7-5.6"/>
+	<line class="st1" x1="43.3" y1="117.6" x2="59.3" y2="117.6"/>
+	<g>
+		<polyline class="st1" points="50,18.7 39.9,7.3 32.7,7.3   "/>
+		<circle class="st1" cx="28.3" cy="7.2" r="4.1"/>
+	</g>
+	<ellipse class="st2" cx="43.3" cy="76.5" rx="7.4" ry="7.3"/>
+	<path class="st0" d="M69.1,45.6c-3.2-0.7-5.2-3.9-4.5-7.1c0.7-3.2,3.9-5.3,7.1-4.6"/>
+	<path class="st0" d="M42.5,37.9c1.6,2.7,5,3.2,7.7,1.7s2-4.2,2.3-7.3c0.6-7.3,10.1-5.5,10.1-5.5"/>
+	<ellipse class="st3" cx="43.3" cy="76.5" rx="14.5" ry="14.4"/>
+	<g>
+		<line class="st1" x1="30.9" y1="28.9" x2="13.9" y2="29"/>
+		<circle class="st1" cx="9.5" cy="28.8" r="4.1"/>
+	</g>
+	<g>
+		<line class="st1" x1="27.3" y1="52.2" x2="17.2" y2="52.3"/>
+		<circle class="st1" cx="12.8" cy="52.1" r="4.1"/>
+	</g>
+	<line class="st1" x1="55.1" y1="59.7" x2="50.9" y2="63.6"/>
+	<path class="st1" d="M29.8,67.6c0,0-12.5-15.6,6.9-21.7c0,0-4.6-4.2-5.5-10c-1-6.7,1.8-18.4,20.9-15.9c0,0,1.5-4.8,4.7-7   c2.2-1.5,4.8-2.5,6.7-2.7c1.3-0.1,3.8-0.1,5.5,0.6c2.1,0.8,3.9,2.1,6.8,4.6c0,0,11.4-7.9,20.9,5.3L60.8,54.4"/>
+	<polyline class="st1" points="43.3,91 43.3,126.5 84.4,126.6 84.4,118.8  "/>
+	<path class="st1" d="M56.5,70.7c0,0,16.7-6.3,16.7,26.3c0,0,31.8,10.8,36.5,10.8c4.7,0,5.2-3.3,5.2-3.3v-16v-2.2   c0,0,8.3-1.9,8.8-4.1c0.6-2.2-13.8-18.8-12.4-23.5c1.3-4.3,3.7-25.1-14.6-37.8"/>
+	<path class="st1" d="M110.1,58.8H103l-2.2-5.5c0,0-19.8,3.2-26.5,11H52.5"/>
+	<circle class="st4" cx="98.4" cy="64.3" r="3.2"/>
+	<path class="st1" d="M44.2,101.1h11.1c2.2,0,3.9,1.9,3.9,4.3c0,2.4-1.8,4.3-3.9,4.3H44.3"/>
+	<path class="st5" d="M60.2,125.6"/>
+	<path class="st5" d="M60.2,106"/>
+</g>
+</svg>
